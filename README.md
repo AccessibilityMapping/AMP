@@ -1,3 +1,2 @@
-# AMP
-Accessibility Mapping Project at UPenn
+# Accessibility Mapping Project at University of Pennsylvania
 Repository for documentation and data collection procedures. 
