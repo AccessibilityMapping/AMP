@@ -5,21 +5,18 @@ This repository contains research documentation, data collection procedures, and
 
 ## Map-a-thons
 
-### Map-a-thon 1: March 3, 2018
-
 [Instructions for team leaders](https://github.com/AccessibilityMapping/AMP/blob/master/TeamLeaderInstructions.md)
 
 [Instructions for volunteers](LINK)
 
+## Surveys
+
+[Entrance survey](https://survey123.arcgis.com/share/7cd2d3bd864941a8ae3f3c0182c1da1b)
+
+[Building interiors survey](https://survey123.arcgis.com/share/61cf45548cc0431c936dc00b9808705d)
+
+[Obstructions survey](https://survey123.arcgis.com/share/210caf35291043579e817d3b954aa2e6)
+
 [Editable map](https://arcg.is/LWOfH)
-
-
-Surveys
-
-[Building entrances](https://survey123.arcgis.com/share/7cd2d3bd864941a8ae3f3c0182c1da1b)
-
-[Building information](https://survey123.arcgis.com/share/61cf45548cc0431c936dc00b9808705d)
-
-[Obstructions](https://survey123.arcgis.com/share/210caf35291043579e817d3b954aa2e6)
 
 Map data (coming soon)
