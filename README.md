@@ -17,6 +17,6 @@ Instructions for volunteers
 
 [Obstructions survey](https://survey123.arcgis.com/share/210caf35291043579e817d3b954aa2e6)
 
-[Editable map](https://arcg.is/LWOfH)
+[Editable map](https://arcg.is/LWOfH) generated from map-a-thon data
 
 Map data (coming soon)

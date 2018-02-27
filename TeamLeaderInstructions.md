@@ -36,3 +36,5 @@ Example:
 
 ## Feedback
 Encounter any difficulties with this process? Have ideas for other categories of access? We want your feedback--email us at upennamp@gmail.com
+
+Here's a mock-up of our[Map display](https://www.arcgis.com/apps/opsdashboard/index.html#/92e0137722ef4bcd9164e63df21119c4)
