@@ -1,48 +1,22 @@
 # Instructions for volunteer coordinators
 
-## General instructions
+## General
 
-- Keep your ID and nametag visible at all times and encourage your group to do the same. Please cooperate with any instructions from public safety or building staff, and only enter buildings marked "1" in the priority column on the building log. 
-
-- If at any time you need to correct information from a survey, you may do so on the [working map](https://arcg.is/LWOfH) or email the project team at upennamp@gmail.com. Feel free to contact us with any questions or concerns, using the Slack channel or email.
+- Keep your ID and nametag visible at all times and encourage your group to do the same. 
+- Please cooperate with any instructions from public safety or building staff. If they have questions you may give them phone numbers for Mark Bookman or Alice McGrath. 
+- At present we are only surveying buildings marked "1" in the priority column on the building log. We have alerted the facilities managers of these buildings. To avoid redundancy and security concerns, please stick to your designated buildings.
+- If at any time you need to correct information from a survey, you may do so on the [working map](https://arcg.is/LWOfH) or email the project team at upennamp@gmail.com. 
+- For any questions during the map-a-thon, please use our [Slack channel](https://join.slack.com/t/accessmapping/shared_invite/enQtMzIxNjgyMTc0NTQ2LWJkOWVhN2Q2NmU2YTA5ZTRjOTUyYmQxZmNlZDhhYmIwZWJlNGEzZGVhYTUyOGZjNDkxMGVmMzUzYTE0OWM4N2Q) and we will respond as soon as we can.
 
 ## Survey process
 - For each building you are assigned, your group will collect information on [building entrances](https://survey123.arcgis.com/share/7cd2d3bd864941a8ae3f3c0182c1da1b)
- and [building interiors](https://survey123.arcgis.com/share/61cf45548cc0431c936dc00b9808705d)
-. Designated teams will collect information on [exterior obstructions](https://survey123.arcgis.com/share/210caf35291043579e817d3b954aa2e6)
-. All three surveys can also be accessed from the Crowdsource Reporter App (link to come). 
-- Refer to the [survey instructions and photo guidelines](https://github.com/AccessibilityMapping/AMP/blob/master/SurveyInstructions.md)
+ and [building interiors](https://survey123.arcgis.com/share/61cf45548cc0431c936dc00b9808705d). Designated teams will collect information on [exterior obstructions](https://survey123.arcgis.com/share/210caf35291043579e817d3b954aa2e6). All three surveys will be on the Crowdsource Reporter App (link to come). 
+- Refer your group members to the [survey instructions and photo guidelines](https://github.com/AccessibilityMapping/AMP/blob/master/SurveyInstructions.md). 
  
 - Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) to record your group's progress.
-- Make sure that your group members use the correct building code and building name from the Building Log. In cases where a single structure is recorded twice on the Building Log, you may eliminate the redundant building and choose the most descriptive name. If you are unable to find a building code, make sure the building name is standardized. 
+- Make sure that your group members use the correct building code and building name from the building log. If you are unable to find a building code, make sure the building name is standardized. In cases where a single structure is recorded twice on the building log, you may eliminate the redundant entry and choose the most descriptive name.
 
 ## Feedback
-Encounter any difficulties with this process? Have ideas for other categories of access? We want your feedback--email us at upennamp@gmail.com
-
-Here's a mock-up of our [Map display](https://www.arcgis.com/apps/opsdashboard/index.html#/92e0137722ef4bcd9164e63df21119c4)
-
-1. Entrances: 
-	- Fill out the [entrance survey](https://survey123.arcgis.com/share/7cd2d3bd864941a8ae3f3c0182c1da1b).
-	- For "Entrance designation" choose a name (ie North entrance, main entrance, or accessible entrance) 
-	- Photograph the entrance. Try to capture ground features and accessibility features. use a landscape orientation and 
-	- Describe and locate building entrances. 
-	- If there are multiple entrances, repeat the survey. You need not survey every entrance, but please survey at least one accessible entrance and the "main" entrance if there is an obvious one.
-
-2. Building Interiors:
-	- Fill out the [building survey](https://survey123.arcgis.com/share/61cf45548cc0431c936dc00b9808705d).
-	- To gather or verify information on building interiors, you may wish to refer to the relevant [PennAccess Map](https://www.facilities.upenn.edu/maps/pennaccess).
-
-3. Obstructions:
-	- Wherever you encounter an obstruction that may impede access, fill out the [obstruction survey](https://survey123.arcgis.com/share/210caf35291043579e817d3b954aa2e6).
-	- Photograph the obstruction
-
-## Guidelines for photographs
-- Only take photographs of building exteriors
-- Avoid taking pictures with people in them (unless they have given their consent to be photographed)
-- If possible, take pictures with landscape orientations to ensure proper display
-- Photographs should prioritize detail over context (make sure you include the entire door, and that the automatic button is visible.
-
-Example:
-![The accessible entrance to Van Pelt Library with an automatic door]( https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/service_c75c8e61112e4e85ab9107f52b834f41/FeatureServer/0/6/attachments/5?token=zLIUqvzJ9i9_nX3tELKDmLeO3l4mYqOnB2_2FGldr7-FbsCOg0RLS2m1VEKHKl-cDZK-CxYaZUtHxqAfFEqHoICNXKlS_NtRuf6n8wXBJhMtSflAQVRy4k7MvpmNLjNwnOqEuwsYAwZ-NBQZeGAE11FkN8WthIOGo-OwL1Gey9_Vvpd5-q5vRugfECW-rv6EsV7g0RRycb_KdGYCQiD4yPesQt4zhfdeNHE8isMec_NB_5v1uRzKy0Otq2EpnuaZtGXomGxvcrIFD7akcpmr4UiU8mPIiAFF2ZtFtryv6Y0.)
-
+- Here's a mock-up of our [Map display](https://www.arcgis.com/apps/opsdashboard/index.html#/92e0137722ef4bcd9164e63df21119c4), which we will update as data is gathered.
+- Encounter any difficulties with this process? Have ideas for other categories of access? We want your feedback--email us at upennamp@gmail.com or send us a Slack message.
 
