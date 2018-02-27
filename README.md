@@ -7,7 +7,7 @@ This repository contains research documentation, data collection procedures, and
 
 [Instructions for team leaders](https://github.com/AccessibilityMapping/AMP/blob/master/TeamLeaderInstructions.md)
 
-[Instructions for volunteers](LINK)
+Instructions for volunteers
 
 ## Surveys
 
