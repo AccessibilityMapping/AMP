@@ -1,3 +1,5 @@
+[Home](http://AccessibilityMapping.github.io/AMP)
+
 # Instructions for volunteer coordinators
 
 ## General

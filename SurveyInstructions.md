@@ -1,3 +1,5 @@
+[Home](http://AccessibilityMapping.github.io/AMP)
+
 # Instructions for Volunteers
 
 ## General
@@ -43,3 +45,5 @@ Example:
 
 ## Feedback
 Have ideas for other categories of access? We want your feedback--email us at upennamp@gmail.com or contribute to our [feedback googledoc](https://docs.google.com/document/d/1tW2kiAsPx5GITntZakYCHAG7793bLwngCgzgrSIycU4/edit?usp=sharing).
+
+[Instructions for group leaders](http://AccessibilityMapping.github.io/AMP/GroupLeaders)
