@@ -1,6 +1,6 @@
 [Home](http://AccessibilityMapping.github.io/AMP)
 
-# Instructions for volunteer coordinators
+# Instructions for group leaders
 
 ## General
 
