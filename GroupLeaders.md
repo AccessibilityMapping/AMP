@@ -2,6 +2,15 @@
 
 # Instructions for group leaders
 
+## Map-a-thon 1 March 2, 2018
+Instructions for adding building information based on [Access Maps](https://www.facilities.upenn.edu/maps/pennaccess)
+
+- Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) to track your progress: for each building you claim, add your name to the "Volunteer" column. 
+- Open the Access map from the link in the "Facilities Map" column
+- Create a new [building interiors survey](https://survey123.arcgis.com/share/2ba4b327c9e3465ba39593ff6e83a037) via the form or the [Web App] (https://upenn.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=d23c349a2c7346c0b6f39879ede52ec8)
+- Refer to the access map and other knowledge as you fill out the form for the building. Once you have submitted your survey, put an X in the "Interiors" column. 
+
+
 ## General
 
 - Keep your ID and nametag visible at all times and encourage your group to do the same.
