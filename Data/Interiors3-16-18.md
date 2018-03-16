@@ -1,4 +1,4 @@
-﻿#Building Interiors 
+﻿# Building Interiors 
 3-16-18
 
 Building name | Building code | Inaccessible spaces | Describe Inaccessible | Braille/tactile signage? | Describe Braille | How are the hallways lit? | Describe the lighting | Chemicals and allergens? | Number of floors | Number of stairwells | Number of elevators | Number of accessible bathrooms | Number of gender-neutral bathrooms | Gender-neutral accessible bathrooms? | Total bathrooms | Are there any lactation spaces? | Are there prayer or meditation spaces? | Comments and additional information | CreationDate | Creator | EditDate | Editor | x | y
