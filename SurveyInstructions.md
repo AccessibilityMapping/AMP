@@ -35,6 +35,7 @@
 - Chemicals: here describe any strong scents or likely allergens you encounter. (For example: “cafe in the basement smells strongly of coffee" or "carpet in hallway has mildew"; "potted plants in the lobby"). 
 - For questions about stairwells, floors, bathrooms, etc., you may want to consult the access map or the facilities website for the building, but do verify the information by locating the relevant rooms. Buildings that are open to the public (such as libraries, galleries, theaters, and museums) may have their own website with useful visitor and accessibility information. 
 - Include any comments or additional information that you notice. For example, note if the building is accessible via elevator but only a service elevator, or only through circuitous and difficult routes.
+- See a [sample entry for Houston Hall](http://AccessibilityMapping.github.io/AMP/BuildInterSample.md)
 
 ### Exterior obstructions:
 - Use the [obstruction survey](https://survey123.arcgis.com/share/210caf35291043579e817d3b954aa2e6) to record information about blocked exterior paths, stairs, large potholes, semi-permanent puddles, cables, or other obstructions to paths or sidewalks.
