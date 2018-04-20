@@ -18,7 +18,7 @@ Instructions for adding building information based on [Access Maps](https://www.
 - At present we are only surveying buildings marked "1" in the priority column on the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing). We have alerted the facilities managers of these buildings. To avoid redundancy and security concerns, please stick to your designated buildings.
 -All three surveys and the map they create can be accessed from our [Crowdsource Reporter web app](https://upenn.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=d23c349a2c7346c0b6f39879ede52ec8).
 -If at any time you need to correct information from a survey, you may do so directly on the [working map](https://www.arcgis.com/home/webmap/viewer.html?webmap=b42a011873df4ebd9d61e8accaee5ecb&extent=-75.2029,39.9461,-75.1827,39.9569), or email the project team at upennamp@gmail.com.
-- For any questions during the map-a-thon, please use our [Slack channel](https://join.slack.com/t/accessmapping/shared_invite/enQtMzIxNjgyMTc0NTQ2LWJkOWVhN2Q2NmU2YTA5ZTRjOTUyYmQxZmNlZDhhYmIwZWJlNGEzZGVhYTUyOGZjNDkxMGVmMzUzYTE0OWM4N2Q) and we will respond as soon as we can. For urgent questions, please call Alice or Mark.
+- For any questions during the map-a-thon, please use our [Slack channel](https://join.slack.com/t/accessmapping/shared_invite/enQtMzUwNzM3NjMxMzE3LTQ1OWUyOGNhMWVjMDQ5ZmFiYjJiNWZiZjk1YzlhZGRjY2M5Nzc1MzYxMWNkOTI5MDM5YzY1NzhjYmE0OGRhYjE) and we will respond as soon as we can. For urgent questions, please call Alice or Mark.
 
 ## Survey process
 - For each building you are assigned, your group will collect information on [building entrances](https://survey123.arcgis.com/share/7cd2d3bd864941a8ae3f3c0182c1da1b)
