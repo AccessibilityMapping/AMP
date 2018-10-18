@@ -21,7 +21,6 @@ This repository contains research documentation, data collection procedures, and
 
 [Obstructions survey](https://survey123.arcgis.com/share/210caf35291043579e817d3b954aa2e6)
 
-Map data (coming soon)
+[Map data] (http://AccessibilityMapping.github.io/AMP/BuildingInterData)
 
 [Project website](http://web.sas.upenn.edu/access-map/)
-
