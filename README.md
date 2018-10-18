@@ -20,7 +20,7 @@ This repository contains research documentation, data collection procedures, and
 [Building interiors survey](https://survey123.arcgis.com/share/2ba4b327c9e3465ba39593ff6e83a037)
 
 [Obstructions survey](https://survey123.arcgis.com/share/210caf35291043579e817d3b954aa2e6)
---->
+-->
 
 [Map data](http://AccessibilityMapping.github.io/AMP/BuildingInterData)
 
