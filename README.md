@@ -17,13 +17,12 @@ This repository contains research documentation, data collection procedures, and
 
 [Project website](http://web.sas.upenn.edu/access-map/)
 
-<!--
+[Links Fall 2018](http://AccessibilityMapping.github.io/AMP/Fall2018)
+
 ### Surveys
 
-[Entrance survey](https://survey123.arcgis.com/share/7cd2d3bd864941a8ae3f3c0182c1da1b)
+[Building Interiors survey](https://survey123.arcgis.com/share/e1bf7d0ea34f47f7bef56abea5457a19)
 
-[Building interiors survey](https://survey123.arcgis.com/share/2ba4b327c9e3465ba39593ff6e83a037)
+[Building Entrances survey](https://survey123.arcgis.com/share/b0aea169a69b492fb5f72fccb182014f)
 
-[Obstructions survey](https://survey123.arcgis.com/share/210caf35291043579e817d3b954aa2e6)
-
--->
+[Obstructions survey](https://survey123.arcgis.com/share/3eb9c6cbb71c4f04a0e7c0d39e8bccc6)
