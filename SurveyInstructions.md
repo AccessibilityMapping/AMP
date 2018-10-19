@@ -52,7 +52,7 @@ All three surveys and the map they create can be accessed from our [Crowdsource 
 - Photographs should prioritize detail over context (make sure you include the entire door, and that the automatic button is visible.
 
 Example:
-![The accessible entrance to Van Pelt Library with an automatic door]( https://github.com/AccessibilityMapping/AMP/blob/master/Images/VPL.JPG)
+![The accessible entrance to Van Pelt Library with an automatic door](http://AccessibilityMapping.github.io/AMP/Images/VPL.JPG)
 
 ## Feedback
 Have ideas for other categories of access? We want your feedback--email us at upennamp@gmail.com or contribute to our [feedback googledoc](https://docs.google.com/document/d/1tW2kiAsPx5GITntZakYCHAG7793bLwngCgzgrSIycU4/edit?usp=sharing).
