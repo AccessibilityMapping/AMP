@@ -19,7 +19,7 @@
 - We define 'stairs' as one or more steps of at least 3" and a 'ramp' as any slight incline or slope.
 - Note the presence of braille signage or tactile pavement outside the entrance and describe where it is and what it is.
 - Photograph the entrance. Try to capture ground features and accessibility features. use a landscape orientation and avoid including people in the photograph.
-- For 'notes' please describe the features of the entrance. (e.g. 'Two sets of shallow concrete steps lead; glass double-doors open out and are relatively heavy'; 'automatic door activated by a metal button on a  pole'). This not only provides additional information but also serves as alternative text for the image. These descriptions are subjective, of course, but do your best. If necessary, include relevant interior features (for example, if there is a staircase immediately inside the entrance). 
+- For 'notes' please describe the features of the entrance. (e.g. 'Two sets of shallow concrete steps lead; glass double-doors open out and are relatively heavy'; 'automatic door activated by a metal button on a  pole'). This not only provides additional information but also serves as alternative text for the image. These descriptions are subjective, of course, but do your best. If necessary, include relevant interior features (for example, if there is a staircase immediately inside the entrance).
 - If the building has multiple entrances, repeat the survey. You need not survey every entrance, but please survey at least one accessible entrance and the primary entrance if there is one.
 
 ### Building Interiors
@@ -32,8 +32,8 @@
 - As a general rule, we consider spaces "accessible" if they can be reached without stairs and if there's a path of at least 32". If you find such spaces, explain where they are and why they are inaccessible.
 - Braille/tactile signage: look at any general building orientation displays. Also check room numbers and bathroom signs to indicate the extent of the signage (that is, do all signs include braille or only a few?)
 - Light: record whether most of the light comes from windows or from artificial lights. Describe the extent of natural light, as well as any unusually bright or dim areas. Also note whether you encounter any flickering fluorescent lights.
-- Chemicals: here describe any strong scents or likely allergens you encounter. (For example: “cafe in the basement smells strongly of coffee" or "carpet in hallway has mildew"; "potted plants in the lobby"). 
-- For questions about stairwells, floors, bathrooms, etc., you may want to consult the access map or the facilities website for the building, but do verify the information by locating the relevant rooms. Buildings that are open to the public (such as libraries, galleries, theaters, and museums) may have their own website with useful visitor and accessibility information. 
+- Chemicals: here describe any strong scents or likely allergens you encounter. (For example: “cafe in the basement smells strongly of coffee" or "carpet in hallway has mildew"; "potted plants in the lobby").
+- For questions about stairwells, floors, bathrooms, etc., you may want to consult the access map or the facilities website for the building, but do verify the information by locating the relevant rooms. Buildings that are open to the public (such as libraries, galleries, theaters, and museums) may have their own website with useful visitor and accessibility information.
 - Include any comments or additional information that you notice. For example, note if the building is accessible via elevator but only a service elevator, or only through circuitous and difficult routes.
 - See a [sample entry for Houston Hall](http://AccessibilityMapping.github.io/AMP/BuildingInterSample)
 
@@ -52,7 +52,7 @@ All three surveys and the map they create can be accessed from our [Crowdsource 
 - Photographs should prioritize detail over context (make sure you include the entire door, and that the automatic button is visible.
 
 Example:
-![The accessible entrance to Van Pelt Library with an automatic door]( https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/service_c75c8e61112e4e85ab9107f52b834f41/FeatureServer/0/6/attachments/5?token=zLIUqvzJ9i9_nX3tELKDmLeO3l4mYqOnB2_2FGldr7-FbsCOg0RLS2m1VEKHKl-cDZK-CxYaZUtHxqAfFEqHoICNXKlS_NtRuf6n8wXBJhMtSflAQVRy4k7MvpmNLjNwnOqEuwsYAwZ-NBQZeGAE11FkN8WthIOGo-OwL1Gey9_Vvpd5-q5vRugfECW-rv6EsV7g0RRycb_KdGYCQiD4yPesQt4zhfdeNHE8isMec_NB_5v1uRzKy0Otq2EpnuaZtGXomGxvcrIFD7akcpmr4UiU8mPIiAFF2ZtFtryv6Y0.)
+![The accessible entrance to Van Pelt Library with an automatic door]( https://github.com/AccessibilityMapping/AMP/blob/master/Images/VPL.JPG)
 
 ## Feedback
 Have ideas for other categories of access? We want your feedback--email us at upennamp@gmail.com or contribute to our [feedback googledoc](https://docs.google.com/document/d/1tW2kiAsPx5GITntZakYCHAG7793bLwngCgzgrSIycU4/edit?usp=sharing).
