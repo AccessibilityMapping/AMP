@@ -1,6 +1,6 @@
 [Home](http://AccessibilityMapping.github.io/AMP)
 
-# Instructions for Volunteers
+# Instructions for Volunteers: Fall 2018
 
 ## General
 - At this time we are collecting information on entrances, building interiors, and exterior obstructions on Penn's campus. During a map-a-thon, please collect information on your group's designated buildings or areas.
@@ -10,8 +10,8 @@
 ## Surveys
 
 ### Entrances
-- Fill out the [entrance survey](https://survey123.arcgis.com/share/7cd2d3bd864941a8ae3f3c0182c1da1b).
-- Decide on a standardized building name to use on all surveys for a particular building.
+- Fill out the [entrance survey](https://survey123.arcgis.com/share/b0aea169a69b492fb5f72fccb182014f).
+- If you are mapping with a group, please decide on a standardized building name to use on the interior survey and all entrance surveys for a particular building.
 - Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) to find the numerical building code.
 - For "Entrance designation" choose a descriptive name for the entrance (for example, North entrance, main entrance, accessible entrance, Walnut Street entrance, etc.).
 - Try to be as precise as you can in setting the geopoint location.
@@ -23,7 +23,7 @@
 - If the building has multiple entrances, repeat the survey. You need not survey every entrance, but please survey at least one accessible entrance and the primary entrance if there is one.
 
 ### Building Interiors
-- Use the [building interiors survey](https://survey123.arcgis.com/share/2ba4b327c9e3465ba39593ff6e83a037).
+- Use the [building interiors survey](https://survey123.arcgis.com/share/e1bf7d0ea34f47f7bef56abea5457a19).
 - Make sure the building name you use for this survey matches the name on the entrance surveys.
 - Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) to find the numerical building code.
 - Set the building geopoint anywhere inside the building, preferably close to the center.
@@ -38,23 +38,25 @@
 - See a [sample entry for Houston Hall](http://AccessibilityMapping.github.io/AMP/BuildingInterSample)
 
 ### Exterior obstructions:
-- Use the [obstruction survey](https://survey123.arcgis.com/share/210caf35291043579e817d3b954aa2e6) to record information about blocked exterior paths, stairs, large potholes, semi-permanent puddles, cables, or other obstructions to paths or sidewalks.
+- Use the [obstruction survey](https://survey123.arcgis.com/share/3eb9c6cbb71c4f04a0e7c0d39e8bccc6) to record information about blocked exterior paths, stairs, large potholes, semi-permanent puddles, cables, or other obstructions to paths or sidewalks.
 - The "type" of obstruction should be a descriptive word or phrase; these need not be unique.
 - Photograph the obstruction.
 - In the "description" field, describe the alternate route if there is one.
 
-All three surveys and the map they create can be accessed from our [Crowdsource Reporter web app](https://upenn.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=d23c349a2c7346c0b6f39879ede52ec8). If at any time you need to correct information from a survey, you may do so directly on the [working map](https://www.arcgis.com/home/webmap/viewer.html?webmap=b42a011873df4ebd9d61e8accaee5ecb&extent=-75.2029,39.9461,-75.1827,39.9569), or email the project team at upennamp@gmail.com.
+All three surveys and the map they create can be accessed from our [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5d1072b3e8494466bb7c2f4adbf628c3). If at any time you need to correct information from a survey, you may do so directly on the web app, or email the project team at upennamp@gmail.com.
 
 ## Guidelines for photographs
-- Please do not take pictures of any building interiors.
-- Avoid taking pictures with people in them (unless they have given their consent to be photographed).
-- If possible, take pictures with landscape orientations to ensure proper display.
-- Photographs should prioritize detail over context (make sure you include the entire door, and that the automatic button is visible.
+- Please do not take pictures of building interiors.
+- Avoid taking pictures with people's faces in them (unless they have given their consent to be photographed).
+- Take pictures with landscape orientations to ensure proper display.
+- Photographs should prioritize detail over context (make sure you include the entire door, and that the automatic button is visible).
 
 Example:
 ![The accessible entrance to Van Pelt Library with an automatic door](http://AccessibilityMapping.github.io/AMP/Images/VPL.JPG)
 
 ## Feedback
-Have ideas for other categories of access? We want your feedback--email us at upennamp@gmail.com or contribute to our [feedback googledoc](https://docs.google.com/document/d/1tW2kiAsPx5GITntZakYCHAG7793bLwngCgzgrSIycU4/edit?usp=sharing).
+Have ideas for other categories of access? We want your feedback--email us at upennamp@gmail.com or contribute to our [feedback form](https://goo.gl/forms/AABf9y0QAgC0fxnM2).
 
 [Instructions for group leaders](http://AccessibilityMapping.github.io/AMP/GroupLeaders)
+
+![AMP Logo](http://AccessibilityMapping.github.io/AMP/Images/AMPLogoSq.jpg)

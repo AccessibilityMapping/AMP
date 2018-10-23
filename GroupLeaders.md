@@ -5,10 +5,10 @@
 ## Map-a-thon 1 March 2, 2018
 Instructions for adding building information based on [Access Maps](https://www.facilities.upenn.edu/maps/pennaccess)
 
-- Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) to track your progress: for each building you claim, add your name to the "Volunteer" column. 
+- Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) to track your progress: for each building you claim, add your name to the "Volunteer" column.
 - Open the Access map from the link in the "Facilities Map" column
 - Create a new [building interiors survey](https://survey123.arcgis.com/share/2ba4b327c9e3465ba39593ff6e83a037) via the form or the [Web App](https://upenn.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=d23c349a2c7346c0b6f39879ede52ec8). You can also use the [working map](https://upenn.maps.arcgis.com/home/webmap/viewer.html?webmap=7bc25584ac354381b9c581ea9c744e80) to add points.
-- Refer to the access map and other information as you fill out the form for the building. Once you have submitted your survey, put an X in the "Interiors" column. 
+- Refer to the access map and other information as you fill out the form for the building. Once you have submitted your survey, put an X in the "Interiors" column.
 
 
 ## General
@@ -16,17 +16,16 @@ Instructions for adding building information based on [Access Maps](https://www.
 - Keep your ID and nametag visible at all times and encourage your group to do the same.
 - Please cooperate with any instructions from public safety or building staff. If they have questions have them call Alice or Mark.
 - At present we are only surveying buildings marked "1" in the priority column on the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing). We have alerted the facilities managers of these buildings. To avoid redundancy and security concerns, please stick to your designated buildings.
--All three surveys and the map they create can be accessed from our [Crowdsource Reporter web app](https://upenn.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=d23c349a2c7346c0b6f39879ede52ec8).
--If at any time you need to correct information from a survey, you may do so directly on the [working map](https://www.arcgis.com/home/webmap/viewer.html?webmap=b42a011873df4ebd9d61e8accaee5ecb&extent=-75.2029,39.9461,-75.1827,39.9569), or email the project team at upennamp@gmail.com.
-- For any questions during the map-a-thon, please use our [Slack channel](https://join.slack.com/t/accessmapping/shared_invite/enQtMzUwNzM3NjMxMzE3LTQ1OWUyOGNhMWVjMDQ5ZmFiYjJiNWZiZjk1YzlhZGRjY2M5Nzc1MzYxMWNkOTI5MDM5YzY1NzhjYmE0OGRhYjE) and we will respond as soon as we can. For urgent questions, please call Alice or Mark.
+-All three surveys and the map they create can be accessed from our [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5d1072b3e8494466bb7c2f4adbf628c3).If at any time you need to correct information from a survey, you may do so directly there, or email the project team at upennamp@gmail.com.
+- For any questions during the map-a-thon, please use our [Slack channel](https://join.slack.com/t/accessmapping/shared_invite/enQtNDU5NjY3MjE0MzUyLWZhMjdlMGZjYThlZWUyYTkyNDdmN2M0M2ExYjdmMTYyMDA0YTc3MGQxZTBhMGEzYWZhNmUzYWUxNTk5MTk1Zjg) and we will respond as soon as we can. For urgent questions, please call Alice or Mark.
 
 ## Survey process
-- For each building you are assigned, your group will collect information on [building entrances](https://survey123.arcgis.com/share/7cd2d3bd864941a8ae3f3c0182c1da1b)
- and [building interiors](https://survey123.arcgis.com/share/61cf45548cc0431c936dc00b9808705d). Designated teams will collect information on [exterior obstructions](https://survey123.arcgis.com/share/210caf35291043579e817d3b954aa2e6). All three surveys will be on the Crowdsource Reporter App (link to come).
+- For each building you are assigned, your group will collect information on [building entrances](https://survey123.arcgis.com/share/b0aea169a69b492fb5f72fccb182014f)
+ and [building interiors](https://survey123.arcgis.com/share/e1bf7d0ea34f47f7bef56abea5457a19). Designated teams will collect information on [exterior obstructions](https://survey123.arcgis.com/share/3eb9c6cbb71c4f04a0e7c0d39e8bccc6). All three surveys will be on the [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5d1072b3e8494466bb7c2f4adbf628c3).
 - Refer your group members to the [survey instructions and photo guidelines](https://github.com/AccessibilityMapping/AMP/blob/master/SurveyInstructions.md).
 - Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) to record your group's progress.
 - Make sure that your group members use the correct building code and building name from the building log. If you are unable to find a building code, make sure the building name is standardized. In cases where a single structure is recorded twice on the building log, you may eliminate the redundant entry and choose the most descriptive name.
 
 ## Feedback
 - Here's a mock-up of our [Map display](https://www.arcgis.com/apps/opsdashboard/index.html#/92e0137722ef4bcd9164e63df21119c4), which we will update as data is gathered.
-- Encounter any difficulties with this process? Have ideas for other categories of access? We want your feedback--email us at upennamp@gmail.com, contribute to this [feedback googledoc](https://docs.google.com/document/d/1tW2kiAsPx5GITntZakYCHAG7793bLwngCgzgrSIycU4/edit?usp=sharing), or send us a Slack message.
+- Encounter any difficulties with this process? Have ideas for other categories of access? We want your feedback--email us at upennamp@gmail.com, submit a [feedback form](https://goo.gl/forms/AABf9y0QAgC0fxnM2), or send us a Slack message.
