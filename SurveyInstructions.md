@@ -21,6 +21,7 @@
 - Photograph the entrance. Try to capture ground features and accessibility features. use a landscape orientation and avoid including people in the photograph.
 - For 'notes' please describe the features of the entrance. (e.g. 'Two sets of shallow concrete steps lead; glass double-doors open out and are relatively heavy'; 'automatic door activated by a metal button on a  pole'). This not only provides additional information but also serves as alternative text for the image. These descriptions are subjective, of course, but do your best. If necessary, include relevant interior features (for example, if there is a staircase immediately inside the entrance).
 - If the building has multiple entrances, repeat the survey. You need not survey every entrance, but please survey at least one accessible entrance and the primary entrance if there is one.
+- See a [sample entry for College Hall Entrance](http://AccessibilityMapping.github.io/AMP/EntranceSample)
 
 ### Building Interiors
 - Use the [building interiors survey](https://survey123.arcgis.com/share/e1bf7d0ea34f47f7bef56abea5457a19).
