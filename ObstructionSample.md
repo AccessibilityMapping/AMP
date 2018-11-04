@@ -1,13 +1,13 @@
 # Sample Entry
 ## Obstruction Survey
 
-Obstacle Type:
+Obstacle Type: Stairs
 
-Is the obtacle permanent?
+Is the obtacle permanent? Yes
 
-Is there an alternate route?
+Is there an alternate route? Yes
 
-If so, describe the alternate route:
+If so, describe the alternate route: Ramp nearby
 
 Attachments: 
 
