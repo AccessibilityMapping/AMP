@@ -42,7 +42,7 @@
 - The "type" of obstruction should be a descriptive word or phrase; these need not be unique.
 - Photograph the obstruction.
 - In the "description" field, describe the alternate route if there is one.
-- See a [sample entry for an obstruction](https://AccessibilityMapping.githu.io/AMP/ObstructionSample.md)
+- See a [sample entry for an obstruction](https://AccessibilityMapping.github.io/AMP/ObstructionSample)
 
 All three surveys and the map they create can be accessed from our [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5d1072b3e8494466bb7c2f4adbf628c3). If at any time you need to correct information from a survey, you may do so directly on the web app, or email the project team at upennamp@gmail.com.
 
