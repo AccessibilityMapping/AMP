@@ -9,7 +9,7 @@ Is there an alternate route? Yes
 
 If so, describe the alternate route: Ramp nearby
 
-Attachments: ![alttext](https://mail.google.com/mail/u/0/#search/amcgr%40upenn.edu/FMfcgxvzLNhgjMVwkKlBRlWPlmHRqjfr)
+Attachments: ![alttext](https://github.com/AccessibilityMapping/AMP/blob/master/Images/ObstructionSample.JPG)
 
 [Home](http://AccessibilityMapping.github.io/AMP)
 
