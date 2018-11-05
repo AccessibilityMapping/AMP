@@ -17,7 +17,7 @@ Braille notes:
 Notes: Up a large flight of stairs. Completely inaccessible.
 
 Image: 
-![CollegeHall](AMP/Images/CollegeHall.jpg)
+![CollegeHall](Images/CollegeHall.jpg)
 
 [Home](http://AccessibilityMapping.github.io/AMP)
 
