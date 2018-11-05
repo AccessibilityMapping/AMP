@@ -11,7 +11,7 @@ If so, describe the alternate route: Ramp nearby
 
 Attachments: ObstructionSample.JPG 
 
-![alttext](https://github.com/AccessibilityMapping/AMP/blob/master/Images/ObstructionSample.JPG)
+![alttext](Images/ObstructionSample.JPG)
 
 [Home](http://AccessibilityMapping.github.io/AMP)
 
