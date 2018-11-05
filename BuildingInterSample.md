@@ -43,7 +43,7 @@ Comments and additional information: Accessible water fountain on third floor, s
 
 Attachments: Houston.jpg
 
-![Exterior Houston Hall from Spruce Street. Grey stone building framed by trees, staircase leads to large wooden doors. Second floor windows feature blue and red Penn banners.](https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/service_12179aa8762647dba17ff539184807a7/FeatureServer/0/3/attachments/2?token=O2cLdxXeA5aY56dS8CyhxK1CLivUZY7YKITg2liANnheLvBsEjS01wyJZrrD3rHq4wltAkUi48thEOs8O2lRanD6NDIRxgHN5MQb1KxCfb-I2r7FzZpJpzCPUqCHkOSNESzjndgC5bl4uFIcIhjaN_Xpg78ieQQGuNmPmnd5BIyuhT_PSga-LmRu81nHruXsbU8HBdixuMpEB5B285BxPLoE0psRLW1p-ryAMGBQ2ZtorCHTjgKQ_cRP1QqbgfmzZmSAar9T2hRykGVq_jTNWi0I7Ddjp13ko69H_zhnqB4.)
+![Exterior Houston Hall from Spruce Street. Grey stone building framed by trees, staircase leads to large wooden doors. Second floor windows feature blue and red Penn banners.](/Images/HoustonHallBuilding.jpg)
 
 [Home](http://AccessibilityMapping.github.io/AMP)
 
