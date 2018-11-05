@@ -18,3 +18,7 @@ Notes: Up a large flight of stairs. Completely inaccessible.
 
 Image: 
 ![CollegeHall ](https://github.com/AccessibilityMapping/AMP/blob/master/Images/CollegeHall.jpg)
+
+[Home](http://AccessibilityMapping.github.io/AMP)
+
+[Return to Survey Instructions](http://AccessibilityMapping.github.io/AMP/SurveyInstructions)
