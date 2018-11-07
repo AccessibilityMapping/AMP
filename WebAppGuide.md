@@ -45,3 +45,6 @@ Press the - button to zoom out.
 Press the crosshair to have the map show you your current location (It is not completely accurate).
 
 At the center of the screen is a blue icon, place it in the spot you are interested in. To do so drag your mouse or finger through the map to the desired spot. 
+
+
+[Home](http://AccessibilityMapping.github.io/AMP)
