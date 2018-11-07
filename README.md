@@ -9,9 +9,9 @@ This repository contains research documentation, data collection procedures, and
 
 [Instructions for group leaders](http://AccessibilityMapping.github.io/AMP/GroupLeaders)
 
-[Working map](https://www.arcgis.com/home/webmap/viewer.html?webmap=b42a011873df4ebd9d61e8accaee5ecb&extent=-75.2029,39.9461,-75.1827,39.9569) generated from map-a-thon data (can be edited)
+[Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5d1072b3e8494466bb7c2f4adbf628c3) featuring all three surveys and a map updated in real-time
 
-[Web App](https://upenn.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=d23c349a2c7346c0b6f39879ede52ec8) featuring all three surveys and a map updated in real-time
+[Web App Guide](http://AccessibilityMapping.github.io/AMP/WebAppGuide)
 
 [Map data](http://AccessibilityMapping.github.io/AMP/BuildingInterData)
 
