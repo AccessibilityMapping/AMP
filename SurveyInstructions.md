@@ -4,13 +4,13 @@
 
 ## General
 - At this time we are collecting information on entrances, building interiors, and exterior obstructions on Penn's campus. During a map-a-thon, please collect information on your group's designated buildings or areas.
-- If you are participating outside of a map-a-thon, please check the [working map](https://arcg.is/LWOfH) before you complete a new survey to avoid duplicate points. You are welcome to edit the working map directly if you'd like to correct or expand any information.
+- If you are participating outside of a map-a-thon, please check the [web app](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5f3f039892524742b2988bc662e32ecb) before you complete a new survey to avoid duplicate points. You are welcome to edit the working map directly if you'd like to correct or expand any information.
 - If you encounter any difficulties with the surveys or have questions about the process, please contact the project team at upennamp@gmail.com.
 
 ## Surveys
 
 ### Entrances
-- Fill out the [entrance survey](https://survey123.arcgis.com/share/b0aea169a69b492fb5f72fccb182014f).
+- Fill out the [entrance survey](https://survey123.arcgis.com/share/990f52f117ef42709b661784212f8976).
 - If you are mapping with a group, please decide on a standardized building name to use on the interior survey and all entrance surveys for a particular building.
 - Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) to find the numerical building code.
 - For "Entrance designation" choose a descriptive name for the entrance (for example, North entrance, main entrance, accessible entrance, Walnut Street entrance, etc.).
@@ -39,13 +39,13 @@
 - See a [sample entry for Houston Hall](http://AccessibilityMapping.github.io/AMP/BuildingInterSample)
 
 ### Exterior obstructions:
-- Use the [obstruction survey](https://survey123.arcgis.com/share/3eb9c6cbb71c4f04a0e7c0d39e8bccc6) to record information about blocked exterior paths, stairs, large potholes, semi-permanent puddles, cables, or other obstructions to paths or sidewalks.
+- Use the [obstruction survey](https://survey123.arcgis.com/share/d71affce25134624811264959b0a5ab0) to record information about blocked exterior paths, stairs, large potholes, semi-permanent puddles, cables, or other obstructions to paths or sidewalks.
 - The "type" of obstruction should be a descriptive word or phrase; these need not be unique.
 - Photograph the obstruction.
 - In the "description" field, describe the alternate route if there is one.
 - See a [sample entry for an obstruction](https://AccessibilityMapping.github.io/AMP/ObstructionSample)
 
-All three surveys and the map they create can be accessed from our [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5d1072b3e8494466bb7c2f4adbf628c3). If at any time you need to correct information from a survey, you may do so directly on the web app, or email the project team at upennamp@gmail.com.
+All three surveys and the map they create can be accessed from our [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5f3f039892524742b2988bc662e32ecb). If at any time you need to correct information from a survey, you may do so directly on the web app, or email the project team at upennamp@gmail.com.
 
 ## Guidelines for photographs
 - Please do not take pictures of building interiors.
