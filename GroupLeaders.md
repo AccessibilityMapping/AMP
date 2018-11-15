@@ -2,15 +2,6 @@
 
 # Instructions for group leaders
 
-## Map-a-thon 1 March 2, 2018
-Instructions for adding building information based on [Access Maps](https://www.facilities.upenn.edu/maps/pennaccess)
-
-- Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) to track your progress: for each building you claim, add your name to the "Volunteer" column.
-- Open the Access map from the link in the "Facilities Map" column
-- Create a new [building interiors survey](https://survey123.arcgis.com/share/2ba4b327c9e3465ba39593ff6e83a037) via the form or the [Web App](https://upenn.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=d23c349a2c7346c0b6f39879ede52ec8). You can also use the [working map](https://upenn.maps.arcgis.com/home/webmap/viewer.html?webmap=7bc25584ac354381b9c581ea9c744e80) to add points.
-- Refer to the access map and other information as you fill out the form for the building. Once you have submitted your survey, put an X in the "Interiors" column.
-
-
 ## General
 
 - Keep your ID and name tag visible at all times and encourage your group to do the same.
@@ -29,3 +20,14 @@ Instructions for adding building information based on [Access Maps](https://www.
 ## Feedback
 
 Encounter any difficulties with this process? Have ideas for other categories of access? We want your feedback--email us at upennamp@gmail.com, submit a [feedback form](https://goo.gl/forms/AABf9y0QAgC0fxnM2), or send us a Slack message.
+
+<!--
+
+## Map-a-thon 1 March 2, 2018
+Instructions for adding building information based on [Access Maps](https://www.facilities.upenn.edu/maps/pennaccess)
+
+- Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) to track your progress: for each building you claim, add your name to the "Volunteer" column.
+- Open the Access map from the link in the "Facilities Map" column
+- Create a new [building interiors survey](https://survey123.arcgis.com/share/2ba4b327c9e3465ba39593ff6e83a037) via the form or the [Web App](https://upenn.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=d23c349a2c7346c0b6f39879ede52ec8). You can also use the [working map](https://upenn.maps.arcgis.com/home/webmap/viewer.html?webmap=7bc25584ac354381b9c581ea9c744e80) to add points.
+- Refer to the access map and other information as you fill out the form for the building. Once you have submitted your survey, put an X in the "Interiors" column.
+-->
