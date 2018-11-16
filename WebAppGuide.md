@@ -46,5 +46,10 @@ Press the crosshair to have the map show you your current location (It is not co
 
 At the center of the screen is a blue icon, place it in the spot you are interested in. To do so drag your mouse or finger through the map to the desired spot. 
 
+Once you are done filling the survey, your entry should appear in the map.
+
+In case you want to delete your entry, click on your entry in the map, a window should pop up, click on the three dots on the bottom right, select edit, two windows should pop up, ignore the "Edit" window, scroll down on the other window and click on delete. 
+
+
 
 [Home](http://AccessibilityMapping.github.io/AMP)
