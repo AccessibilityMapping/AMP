@@ -6,7 +6,7 @@ The web app referenced in this guide: [Web App](https://upenn.maps.arcgis.com/ap
 
 The following picture is a general view of the map:
 
-![General Interface](Images/GeneralMapView.PNG)
+![General Interface](Images/GeneralMapView.png)
 
 ## Adding entries
 
@@ -16,7 +16,7 @@ The best way to **add entries** is through the info button on the left side of t
 
 Once you click on it you will see the following:
 
-![Info Button Clicked](Images/InfoButtonClicked.PNG)
+![Info Button Clicked](Images/InfoButtonClicked.png)
 
 Survey instructions will take you to a page containing instructions for all three surveys.
 
