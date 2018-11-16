@@ -6,8 +6,8 @@
 
 - Keep your ID and name tag visible at all times and encourage your group to do the same.
 - Please cooperate with any instructions from public safety or building staff. If they have questions have them call Alice.
-- During the map-a-thon, please stick to the buildings your group has been assigned [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing).
--All three surveys and the map they create can be accessed from our [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5f3f039892524742b2988bc662e32ecb).If at any time you need to correct information from a survey, you may do so directly there, or email the project team at upennamp@gmail.com.
+- During the map-a-thon, please stick to the buildings your group has been assigned unless instructed otherwise. The [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) has the full list of unmapped buildings marked by priority.
+- All three surveys and the map they create can be accessed from our [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5f3f039892524742b2988bc662e32ecb).If at any time you need to correct information from a survey, you may do so directly there, or email the project team at upennamp@gmail.com.
 - For any questions during the map-a-thon, please use our [Slack channel](https://join.slack.com/t/accessmapping/shared_invite/enQtNDU5NjY3MjE0MzUyLWZhMjdlMGZjYThlZWUyYTkyNDdmN2M0M2ExYjdmMTYyMDA0YTc3MGQxZTBhMGEzYWZhNmUzYWUxNTk5MTk1Zjg) and we will respond as soon as we can. For urgent questions, please call Alice.
 
 ## Survey process
