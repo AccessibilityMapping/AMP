@@ -1,6 +1,6 @@
 # Web App Guide
 
-The web app referenced in this guide: [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5d1072b3e8494466bb7c2f4adbf628c3)
+The web app referenced in this guide: [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5f3f039892524742b2988bc662e32ecb)
 
 ## General Interface
 
