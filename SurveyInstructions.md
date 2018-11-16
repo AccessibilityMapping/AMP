@@ -4,7 +4,7 @@
 
 ## General
 - At this time we are collecting information on entrances, building interiors, and exterior obstructions on Penn's campus. During a map-a-thon, please collect information on your group's designated buildings or areas.
-- If you are participating outside of a map-a-thon, please check the [web app](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5f3f039892524742b2988bc662e32ecb) before you complete a new survey to avoid duplicate points. You are welcome to edit the working map directly if you'd like to correct or expand any information.
+- If you are participating outside of a map-a-thon, please check the [web app](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5f3f039892524742b2988bc662e32ecb) before you complete a new survey to avoid duplicate points. You are welcome to edit the entry directly if you'd like to correct or expand any information.
 - If you encounter any difficulties with the surveys or have questions about the process, please contact the project team at upennamp@gmail.com.
 
 ## Surveys
@@ -12,21 +12,21 @@
 ### Entrances
 - Fill out the [entrance survey](https://survey123.arcgis.com/share/990f52f117ef42709b661784212f8976).
 - If you are mapping with a group, please decide on a standardized building name to use on the interior survey and all entrance surveys for a particular building.
-- Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) to find the numerical building code.
+- Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) or ask your group leader for the numerical building code.
 - For "Entrance designation" choose a descriptive name for the entrance (for example, North entrance, main entrance, accessible entrance, Walnut Street entrance, etc.).
 - Try to be as precise as you can in setting the geopoint location.
 - Estimate or measure the size of the door opening.
 - We define 'stairs' as one or more steps of at least 3" and a 'ramp' as any slight incline or slope.
 - Note the presence of braille signage or tactile pavement outside the entrance and describe where it is and what it is.
 - Photograph the entrance. Try to capture ground features and accessibility features. use a landscape orientation and avoid including people in the photograph.
-- For 'notes' please describe the features of the entrance. (e.g. 'Two sets of shallow concrete steps lead; glass double-doors open out and are relatively heavy'; 'automatic door activated by a metal button on a  pole'). This not only provides additional information but also serves as alternative text for the image. These descriptions are subjective, of course, but do your best. If necessary, include relevant interior features (for example, if there is a staircase immediately inside the entrance).
+- For 'notes' please describe the features of the entrance. (e.g. 'Two sets of shallow concrete steps lead; glass double-doors open out and are relatively heavy'; 'automatic door activated by a metal button on a  pole'). This not only provides additional information but also serves as alternative text for the image. If necessary, include relevant interior features (for example, if there is a staircase immediately inside the entrance).
 - If the building has multiple entrances, repeat the survey. You need not survey every entrance, but please survey at least one accessible entrance and the primary entrance if there is one.
 - See a [sample entry for College Hall Entrance](http://AccessibilityMapping.github.io/AMP/EntranceSample)
 
 ### Building Interiors
 - Use the [building interiors survey](https://survey123.arcgis.com/share/e1bf7d0ea34f47f7bef56abea5457a19).
 - Make sure the building name you use for this survey matches the name on the entrance surveys.
-- Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) to find the numerical building code.
+- Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) or ask your group leader for the numerical building code.
 - Set the building geopoint anywhere inside the building, preferably close to the center.
 - To gather or verify information on building interiors, you may wish to refer to the relevant [PennAccess Map](https://www.facilities.upenn.edu/maps/pennaccess). You will find the link on the building log. Be aware that this information may not be up-to-date.
 - Include a photograph of the exterior front of the building.
@@ -39,7 +39,7 @@
 - See a [sample entry for Houston Hall](http://AccessibilityMapping.github.io/AMP/BuildingInterSample)
 
 ### Exterior obstructions:
-- Use the [obstruction survey](https://survey123.arcgis.com/share/d71affce25134624811264959b0a5ab0) to record information about blocked exterior paths, stairs, large potholes, semi-permanent puddles, cables, or other obstructions to paths or sidewalks.
+- Use the [obstructions survey](https://survey123.arcgis.com/share/d71affce25134624811264959b0a5ab0) to record information about blocked exterior paths, stairs, large potholes, semi-permanent puddles, cables, or other obstructions to paths or sidewalks.
 - The "type" of obstruction should be a descriptive word or phrase; these need not be unique.
 - Photograph the obstruction.
 - In the "description" field, describe the alternate route if there is one.
@@ -60,5 +60,3 @@ Example:
 Have ideas for other categories of access? We want your feedback--email us at upennamp@gmail.com or contribute to our [feedback form](https://goo.gl/forms/AABf9y0QAgC0fxnM2).
 
 [Instructions for group leaders](http://AccessibilityMapping.github.io/AMP/GroupLeaders)
-
-![AMP Logo](http://AccessibilityMapping.github.io/AMP/Images/AMPLogoSq.jpg)

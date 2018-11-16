@@ -5,8 +5,8 @@
 ## General
 
 - Keep your ID and name tag visible at all times and encourage your group to do the same.
-- Please cooperate with any instructions from public safety or building staff. If they have questions have them call Alice or Mark.
-- At present we are only surveying buildings marked "1" in the priority column on the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing). We have alerted the facilities managers of these buildings. To avoid redundancy and security concerns, please stick to your designated buildings.
+- Please cooperate with any instructions from public safety or building staff. If they have questions have them call Alice.
+- During the map-a-thon, please stick to the buildings your group has been assigned [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing).
 -All three surveys and the map they create can be accessed from our [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5f3f039892524742b2988bc662e32ecb).If at any time you need to correct information from a survey, you may do so directly there, or email the project team at upennamp@gmail.com.
 - For any questions during the map-a-thon, please use our [Slack channel](https://join.slack.com/t/accessmapping/shared_invite/enQtNDU5NjY3MjE0MzUyLWZhMjdlMGZjYThlZWUyYTkyNDdmN2M0M2ExYjdmMTYyMDA0YTc3MGQxZTBhMGEzYWZhNmUzYWUxNTk5MTk1Zjg) and we will respond as soon as we can. For urgent questions, please call Alice.
 
@@ -15,11 +15,13 @@
  and [building interiors](https://survey123.arcgis.com/share/5df307ba05764cb484fb8b180f53d197). Designated teams will collect information on [exterior obstructions](https://survey123.arcgis.com/share/d71affce25134624811264959b0a5ab0). All three surveys will be on the [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5f3f039892524742b2988bc662e32ecb).
 - Refer your group members to the [survey instructions and photo guidelines](https://github.com/AccessibilityMapping/AMP/blob/master/SurveyInstructions.md).
 - Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) to record your group's progress.
-- Make sure that your group members use the correct building code and building name from the building log. If you are unable to find a building code, make sure the building name is standardized. In cases where a single structure is recorded twice on the building log, you may eliminate the redundant entry and choose the most descriptive name.
+- Make sure that your group members use the correct building code and building name from the sheet you have been given. If you are unable to find a building code, make sure the building name is standardized. In cases where a single structure is recorded twice on the building log, you may eliminate the redundant entry and choose the most descriptive name.
 
 ## Feedback
 
-Encounter any difficulties with this process? Have ideas for other categories of access? We want your feedback--email us at upennamp@gmail.com, submit a [feedback form](https://goo.gl/forms/AABf9y0QAgC0fxnM2), or send us a Slack message.
+Encounter any difficulties with this process? Have ideas for other categories of access? email us at upennamp@gmail.com, or send us a Slack message.
+
+We want your feedback! Send us an email or submit a [feedback form](https://goo.gl/forms/AABf9y0QAgC0fxnM2).
 
 <!--
 
