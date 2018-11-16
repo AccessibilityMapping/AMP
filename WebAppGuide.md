@@ -49,10 +49,10 @@ At the center of the screen is a blue icon, place it in the spot you are interes
 Once you are done filling the survey, your entry should appear in the map.
 
 In case you want to delete your entry: 
-Click on your entry on the map, a window should pop up.
-Click on the three dots on the bottom right.
-Select edit, two windows should pop up, ignore the "Edit" window.
-Scroll down on the other window and click on delete. 
+*Click on your entry on the map, a window should pop up.
+*Click on the three dots on the bottom right.
+*Select edit, two windows should pop up, ignore the "Edit" window.
+*Scroll down on the other window and click on delete. 
 
 
 
