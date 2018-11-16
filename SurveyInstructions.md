@@ -24,7 +24,7 @@
 - See a [sample entry for College Hall Entrance](http://AccessibilityMapping.github.io/AMP/EntranceSample)
 
 ### Building Interiors
-- Use the [building interiors survey](https://survey123.arcgis.com/share/e1bf7d0ea34f47f7bef56abea5457a19).
+- Use the [building interiors survey](https://survey123.arcgis.com/share/5df307ba05764cb484fb8b180f53d197).
 - Make sure the building name you use for this survey matches the name on the entrance surveys.
 - Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) or ask your group leader for the numerical building code.
 - Set the building geopoint anywhere inside the building, preferably close to the center.

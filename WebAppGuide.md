@@ -1,12 +1,12 @@
 # Web App Guide
 
-The web app referenced in this guide: [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5d1072b3e8494466bb7c2f4adbf628c3)
+The web app referenced in this guide: [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5f3f039892524742b2988bc662e32ecb)
 
 ## General Interface
 
 The following picture is a general view of the map:
 
-![General Interface](Images/GeneralMapView.png)
+![General Interface](Images/GeneralMapView.PNG)
 
 ## Adding entries
 
@@ -16,7 +16,7 @@ The best way to **add entries** is through the info button on the left side of t
 
 Once you click on it you will see the following:
 
-![Info Button Clicked](Images/InfoButtonClicked.png)
+![Info Button Clicked](Images/InfoButtonClicked.PNG)
 
 Survey instructions will take you to a page containing instructions for all three surveys.
 
@@ -34,17 +34,24 @@ On the left side you will see the following:
 
 ![Point Survey Left Side](Images/PointSurveyLeftSide.png)
 
-The home button will return you to the world view.
-
-In the search bar you can type in locations such as “University of Pennsylvania” and the map will display that location.
-
-Press the + button to zoom in.
-
-Press the - button to zoom out.
-
-Press the crosshair to have the map show you your current location (It is not completely accurate).
+* The home button will return you to the world view.
+* In the search bar you can type in locations such as “University of Pennsylvania” and the map will display that location.
+* Press the + button to zoom in.
+* Press the - button to zoom out.
+* Press the crosshair to have the map show you your current location (It is not completely accurate).
 
 At the center of the screen is a blue icon, place it in the spot you are interested in. To do so drag your mouse or finger through the map to the desired spot. 
+
+Once you are done filling the survey, your entry should appear in the map.
+
+## Deleting Entries
+
+In case you want to delete your entry: 
+* Click on your entry on the map, a window should pop up.
+* Click on the three dots on the bottom right.
+* Select edit, two windows should pop up, ignore the "Edit" window.
+* Scroll down on the other window and click on delete. 
+
 
 
 [Home](http://AccessibilityMapping.github.io/AMP)

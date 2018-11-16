@@ -13,7 +13,7 @@
 ## Survey process
 - For each building you are assigned, your group will collect information on [building entrances](https://survey123.arcgis.com/share/990f52f117ef42709b661784212f8976)
  and [building interiors](https://survey123.arcgis.com/share/5df307ba05764cb484fb8b180f53d197). Designated teams will collect information on [exterior obstructions](https://survey123.arcgis.com/share/d71affce25134624811264959b0a5ab0). All three surveys will be on the [Web App](https://upenn.maps.arcgis.com/apps/webappviewer/index.html?id=5f3f039892524742b2988bc662e32ecb).
-- Refer your group members to the [survey instructions and photo guidelines](https://github.com/AccessibilityMapping/AMP/blob/master/SurveyInstructions.md).
+- Refer your group members to the [survey instructions and photo guidelines](https://accessibilitymapping.github.io/AMP/SurveyInstructions).
 - Use the [building log](https://docs.google.com/spreadsheets/d/1aAa76--OkCjWWZBBI-jJrrksBfilDFSyNZQ9dVgOw8I/edit?usp=sharing) to record your group's progress.
 - Make sure that your group members use the correct building code and building name from the sheet you have been given. If you are unable to find a building code, make sure the building name is standardized. In cases where a single structure is recorded twice on the building log, you may eliminate the redundant entry and choose the most descriptive name.
 
