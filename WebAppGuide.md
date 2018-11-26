@@ -52,6 +52,11 @@ In case you want to delete your entry:
 * Select edit, two windows should pop up, ignore the "Edit" window.
 * Scroll down on the other window and click on delete. 
 
+## Using the Map
+
+The map provides very useful information, to filter through it click on the following icon:
+
+![]
 
 
 [Home](http://AccessibilityMapping.github.io/AMP)
