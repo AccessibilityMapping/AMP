@@ -55,6 +55,7 @@ In case you want to delete your entry:
 ## Using the Map
 
 The map provides very useful information, to filter through it click on the following icon:
+
 ![Filter Search](Images/FilterSearch.PNG)
 
 From here you will see a list pop up with different types of spaces or resources within a building. By clicking on one of them you should see a blue circle appear surrounding any location in the map that contains the space or resource you specified.
